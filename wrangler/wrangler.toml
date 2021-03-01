@@ -2,6 +2,7 @@ name = "tss-wrangler"
 type = "webpack"
 webpack_config = "webpack.config.js"
 account_id = "67d7d17573b7f6732e32f3c0752e0275"
+zone_id = "aa6f3497d7e8b5a16e809b8a680fdb33"
 workers_dev = true
 kv_namespaces = [
    { binding = "META", id = "8456302f5be04b0cb470df5099f92530" },
