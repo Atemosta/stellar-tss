@@ -1,12 +1,12 @@
 name = "tss-wrangler"
 type = "webpack"
 webpack_config = "webpack.config.js"
-account_id = "dfd716443bca4859850dd27a6f885a60"
+account_id = "67d7d17573b7f6732e32f3c0752e0275"
 workers_dev = true
 kv_namespaces = [
-   { binding = "META", id = "239e6a0c4c8d47569eb202278fd99e58" },
-   { binding = "TX_FUNCTIONS", id = "bb7ba59b38e040bbab7d71dfdb826911" },
-   { binding = "TX_FEES", id = "bc666162fd1c44f0b22c605e14c07597" },
-   { binding = "TX_SPONSORS", id = "01269d925c44431aaab92c31307e8599" }
+   { binding = "META", id = "8456302f5be04b0cb470df5099f92530" },
+   { binding = "TX_FUNCTIONS", id = "a490d3557d7c487595465cbfd5d2f7c5" },
+   { binding = "TX_FEES", id = "7705f1c377f6466fa74e46c474c05a66" },
+   { binding = "TX_SPONSORS", id = "8a6c6710363f4aabae6fd788cd80e5e5" }
 ]
-vars = { STELLAR_NETWORK = "TESTNET", TURRET_ADDRESS = "GB4OYM7TQTJSROWXHOJLKAX2IJ2QN4I6S6GCJH4MGWVTAO5Q5DPNADXX", TURRET_RUN_URL = "https://h9xfbbzuod.execute-api.us-east-1.amazonaws.com" }
+vars = { STELLAR_NETWORK = "TESTNET", TURRET_ADDRESS = "GDZACR7XAJWU3JLJ5TVDOLCVB5DCIY2K7PHDR7ODGCEQTNVENOPHLCF7", TURRET_RUN_URL = "https://najfh4yqje.execute-api.us-east-1.amazonaws.com" }
